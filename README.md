@@ -12,13 +12,13 @@
 
 ## 프로그램 구조도
 ### 전체 프로그램 구조도
-![smartCity_trashcans](https://user-images.githubusercontent.com/39904216/90105824-80d23180-dd81-11ea-8359-92153821c6c1.png)
+![image](https://user-images.githubusercontent.com/39904216/90106478-6d739600-dd82-11ea-91f5-3c39753b4f90.png)
 
 ### 클라이언트(쓰레기통) 구조도 
-![smartCity_client_trash](https://user-images.githubusercontent.com/39904216/90106124-f1794e00-dd81-11ea-9c0f-4682c0809af9.png)
+![image](https://user-images.githubusercontent.com/39904216/90106482-719fb380-dd82-11ea-8b65-e187a64516ce.png)
 
 ### 클라이언트(사용자) 구조도
-![smartCity_client_person](https://user-images.githubusercontent.com/39904216/90106144-f8a05c00-dd81-11ea-96b1-72ecfa4427fe.png)
+![image](https://user-images.githubusercontent.com/39904216/90106488-75333a80-dd82-11ea-8312-ced9c9403813.png)
 
 ### 서버(관리시스템) 구조도
-![smartCity_server](https://user-images.githubusercontent.com/39904216/90106159-fd651000-dd81-11ea-8061-0590ca40fac3.png)
+![image](https://user-images.githubusercontent.com/39904216/90106502-795f5800-dd82-11ea-909f-ac58af411ea1.png)
